@@ -1,4 +1,5 @@
 <?php
+// belajar sintax dasar php
 // komentar untuk satu baris
 /* komentar untuk beberapa baris
 */

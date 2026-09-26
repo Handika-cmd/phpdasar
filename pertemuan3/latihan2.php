@@ -3,7 +3,7 @@
 // if else : percabangan yang dijalankan jika kondisi terpenuhi atau tidak
 // if else if else : percabangan yang dijalankan jika kondisi terpenuhi atau tidak, dan bisa menambahkan kondisi lain
 // switch case : percabangan yang dijalankan jika kondisi terpenuhi atau tidak, dan bisa menambahkan kondisi lain, namun hanya untuk nilai tertentu
-// ternary  : percabangan yang dijalankan jika kondisi terpenuhi atau tidak, namun hanya untuk nilai tertentu
+// ternary  : percabangan yng dijalankan jika kondisi terpenuhi atau tidak, namun hanya untuk nilai tertentu
 
 // contoh if else
 $nilai = 80;

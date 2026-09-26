@@ -3,7 +3,7 @@
 // array adalah tipe data yang bisa menampung banyak nilai sekaligus
 // varibael yg bisa menampung banyak tipe data sekaligus
 // elemen pada array bisa memiliki tipe data yang berbeda
-// pasangan antara key dan value
+// pasangan antara key dan value.
 // key-nya adalah index, yg dimulai dari 0
 
 // cara lama

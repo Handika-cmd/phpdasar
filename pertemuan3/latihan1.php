@@ -3,7 +3,7 @@
 // for : pengulangan yang dijalankan dengan jumlah iterasi yang diketahui
 // while : pengulangan yang dijalankan selama kondisi tertentu terpenuhi
 // do while : pengulangan yang selalu dijalankan setidaknya sekali
-// foreach : pengulangan khusus array
+// foreach : pengulangan khusus arrayy
 
 //contoh for
 for ($i = 0; $i < 5; $i++) {

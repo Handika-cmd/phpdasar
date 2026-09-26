@@ -1,5 +1,5 @@
 <?php
-// menampilkan array untuk user
+// menampilkan array untuk user.
 $array = [1,2,3,4,5,6,7];
 ?>
 <!DOCTYPE html>
