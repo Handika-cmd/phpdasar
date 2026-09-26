@@ -1,5 +1,5 @@
 <?php
-// membuat function sendiri
+// membuat function sendirii
 function salam($waktu = "datang", $nama = "admin"){
     return "selamat $waktu, $nama!";
 }

@@ -4,7 +4,7 @@
 // d = menampilkan tanggal dalam format angka, misal: 01 sampai 31
 // m = menampilkan bulan dalam format angka, misal: 01 sampai 12
 // Y = menampilkan tahun dalam format angka, misal: 2023
-// kalau mau lengkap bisa langsung ke https://www.php.net/manual/en/function.date.php
+// kalau mau lengkap bisaa langsung ke https://www.php.net/manual/en/function.date.php
    echo date("l, d-m-Y");
 //time
 // unix timestamp / epoch time
