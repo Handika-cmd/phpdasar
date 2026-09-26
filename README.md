@@ -240,7 +240,7 @@ Contoh:
 ```php
 <?php
 
-$nama = "Dika";
+$nama = "Ririn";
 
 echo "Halo, nama saya $nama";
 
@@ -314,7 +314,7 @@ Contohnya:
 ```php
 <?php
 
-$nama = "Dika";
+$nama = "Ririn";
 
 echo $nama;
 
