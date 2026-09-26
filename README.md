@@ -173,7 +173,7 @@ Setelah memahami konsep dasar, saya mencoba menulis ulang contoh menggunakan kas
 Misalnya setelah memahami:
 
 ```php
-$nama = "Dika";
+$nama = "Ririn Dwi Aryanti";
 ```
 
 saya tidak berhenti di sana.
@@ -181,8 +181,8 @@ saya tidak berhenti di sana.
 Saya mencoba:
 
 ```php
-$nama = "Dika";
-$umur = 22;
+$nama = "Ririn Dwi Aryanti";
+$umur = 20;
 
 echo $nama;
 echo $umur;
